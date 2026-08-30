@@ -2,17 +2,17 @@
 This dashboard analyzes sales performance across multiple dimensions account managers, states, cities, and months  to provide a comprehensive view of business trends and revenue drivers. It highlights total orders, quantity sold, and revenue generated between 2013 and 2017, helping management identify top performers and regional opportunities.
 
 ## Table of Contents
-#### 1.	[Executive Summary]()
-#### 2.	[Business Problem]()
-#### 3.	[Dataset Overview]()
-#### 4.	[[Dashboard Workflow]()
-#### 5.	[Dashboard Visualization]()
-#### 6.	[KPI Dashboard Summary]()
-#### 7.	[[Insights]()
-#### 8.	[Recommendations]()
-#### 9.	[Technical Skills Demonstrated]()
-#### 10. [Project Outcome]()
-#### 11. [KPI Comparison by Dimension]()
+#### 1.	[Executive Summary](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#1-executive-summary)
+#### 2.	[Business Problem](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#2-business-problem)
+#### 3.	[Dataset Overview](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#3-dataset-overview)
+#### 4.	[Dashboard Workflow](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#4-dashboard-workflow)
+#### 5.	[Dashboard Visualization](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#5-dashboard-visualization)
+#### 6.	[KPI Dashboard Summary](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#6-kpi-dashboard-summary)
+#### 7.	[Insights](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#7-insights)
+#### 8.	[Recommendations](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#8-recommendations)
+#### 9.	[Technical Skills Demonstrated](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#9-technical-skills-demonstrated)
+#### 10. [Project Outcome](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#10-project-outcome-1)
+#### 11. [KPI Comparison by Dimension](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#11-kpi-comparison-by-dimension-1)
 
 ## 1. Executive Summary
 This dashboard analyzes **sales performance** across multiple dimensions account managers, states, cities, and months  to provide a comprehensive view of business trends and revenue drivers. It highlights total orders, quantity sold, and revenue generated between **2013 and 2017**, helping management identify top performers and regional opportunities.
